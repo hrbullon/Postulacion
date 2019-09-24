@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">NapoleonTest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    //login
+    <string name="login">Comenzar</string>
+    <string name="login_title">Test Enrique Morales</string>
+    <string name="iduser">Ingrese su ID</string>
+    <string name="user_not_find">Usuario no existe</string>
+
+
+    //nav_drawer
+    <string name="nav_title">Realizado por Enrique Morales</string>
+    <string name="nav_title_detail">Correo: bluesmusic8@gmail.com</string>
+
+
+    //my post
+    <string name="mypost_title">Mis Post</string>
+    <string name="allpost_title">Todos los Post</string>
+    <string name="favorite_title">Mis favoritos</string>
+
+    <string name="sqlite_title">Procesado</string>
+    <string name="sqlite_message">Se han guardado automaticamente todos los posts en su movil para el punto extra, puedes acceder a las tablas de sqlite y revisar</string>
+
+
+    //detail post
+    <string name="button_back">Regresar</string>
+    <string name="button_add_favorites">Agregar a favoritos</string>
+    <string name="add_favorites">Se ha agregado a su lista de favoritos</string>
+    <string name="error_add_favorites">Ah ocurrido un error guardando la orden</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
